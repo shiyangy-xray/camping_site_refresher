@@ -1,0 +1,579 @@
+{
+  "availabilityCards": [
+    {
+      "resourceId": -2147483547,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483546,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483608,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483583,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483621,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483542,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483619,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483601,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483562,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483595,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483577,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483644,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483615,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483545,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483578,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483540,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483634,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483587,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483631,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483637,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483586,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483567,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483603,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483610,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483611,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483630,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483538,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483592,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483550,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483554,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483622,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483642,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483591,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483555,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483585,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483597,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483618,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483633,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483606,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483640,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483584,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483632,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483596,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483636,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483607,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483556,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483623,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483579,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483589,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483557,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483573,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483537,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483598,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483553,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483594,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483620,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483605,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483581,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483551,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483626,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483571,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483570,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483614,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483600,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483588,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483617,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483575,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483643,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483565,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483558,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483628,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483549,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483559,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483543,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483561,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483560,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483635,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483574,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483639,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483541,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483563,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483576,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483590,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483539,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483599,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483569,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483625,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483568,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483609,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483613,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483580,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483629,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483616,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483627,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483552,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483645,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483572,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483638,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483564,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483544,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483582,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483646,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483593,
+      "dateRanges": [
+        {
+          "start": "2025-09-26T00:00:00",
+          "end": "2025-09-27T00:00:00",
+          "fixedStartDay": 3921,
+          "fixedEndDay": 3922,
+          "duration": "1.00:00:00"
+        }
+      ],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483612,
+      "dateRanges": [
+        {
+          "start": "2025-09-26T00:00:00",
+          "end": "2025-09-27T00:00:00",
+          "fixedStartDay": 3921,
+          "fixedEndDay": 3922,
+          "duration": "1.00:00:00"
+        }
+      ],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483624,
+      "dateRanges": [
+        {
+          "start": "2025-09-26T00:00:00",
+          "end": "2025-09-27T00:00:00",
+          "fixedStartDay": 3921,
+          "fixedEndDay": 3922,
+          "duration": "1.00:00:00"
+        }
+      ],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483604,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483641,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483602,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483548,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    },
+    {
+      "resourceId": -2147483566,
+      "dateRanges": [],
+      "hasAdditionalAvailableDateRanges": false
+    }
+  ],
+  "canShowMore": false
+}
